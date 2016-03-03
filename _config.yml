@@ -7,7 +7,6 @@
 
 # Site settings
 title: Aysar
-email: ak@akpro.net
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I'm Aysar.  I like building things.  I occasionally use Ruby, JavaScript and Java.
   I occasionally finish and ship stuff.
